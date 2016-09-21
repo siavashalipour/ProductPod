@@ -1,0 +1,6 @@
+framework module ProductPod {
+  umbrella header "ProductPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

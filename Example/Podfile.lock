@@ -1,0 +1,20 @@
+PODS:
+  - ProductPod (0.1.0):
+    - SnapKit
+  - SnapKit (3.0.1)
+
+DEPENDENCIES:
+  - ProductPod (from `../`)
+  - SnapKit
+
+EXTERNAL SOURCES:
+  ProductPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ProductPod: 469bc46d24711c1c352e06f8ec44548b86f15286
+  SnapKit: f818b8326d45b4e1c777d0ab27b5c0a3624bfdeb
+
+PODFILE CHECKSUM: ccea67acfacb004263b3d5f9bcb069621b4ad540
+
+COCOAPODS: 1.1.0.rc.2
